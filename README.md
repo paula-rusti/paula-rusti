@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+- 🌱 I’m currently improving my knowledge on the Spring framework including Spring Security
+- 👯 I’m looking to collaborate on Java projects 
 
 <!--
 **paula-rusti/paula-rusti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
